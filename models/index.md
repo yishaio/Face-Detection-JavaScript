@@ -24,6 +24,7 @@
   </style>
 </head>
 <body>
+  <p>This is a test</p>
   <video id="video" width="720" height="560" autoplay muted></video>
 </body>
 </html>
